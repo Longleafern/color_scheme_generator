@@ -1,1 +1,25 @@
+body {
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.colorContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: .5rem;
+    
+}
 
+.colors {
+    width: 5rem;
+    height: 20rem;
+    border: solid 1px white;
+    font-size: 14px;
+    text-align: center;
+    /* color: whitesmoke; */
+    align-items:flex-end
+    
+}
